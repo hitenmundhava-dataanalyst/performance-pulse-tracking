@@ -36,5 +36,5 @@ The file is a **macro-enabled workbook (.xlsm)** designed for business managers,
 
 Here’s a snapshot of the Excel dashboard:
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](image.png)
 ---
