@@ -31,3 +31,10 @@ The file is a **macro-enabled workbook (.xlsm)** designed for business managers,
 5. **Forecast**: Based on current trends, sales are projected to grow **X% next quarter**.  
 
 ---
+
+## 📊 Dashboard Preview
+
+Here’s a snapshot of the Excel dashboard:
+
+![Dashboard Screenshot]()
+---
